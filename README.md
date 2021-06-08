@@ -2,6 +2,7 @@
 Uses internet posts to classify whether author is happy or depressed
 
 Binary classifier; uses sci-kit learn's Logistic Regression
+
 Compares prediction results from throwing a TF-IDF on each post to results from sentiment & subjectivity scores from each post
 
 Data from Kaggle:
